@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rahulrk.netlify.app/sitemap.xml
+Host: https://rahulrk.netlify.app
